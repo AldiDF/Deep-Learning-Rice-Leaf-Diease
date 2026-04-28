@@ -1,8 +1,7 @@
 # Deep Learning Rice Leaf Diease
-  VGG19
-  ResNet152
-  MobileNetV2
-  DenseNet
+  VGG19 <br>
+  ResNet152 <br>
+  MobileNetV2 <br>
+  DenseNet <br>
 
-# Dataset
-https://www.kaggle.com/datasets/loki4514/rice-leaf-diseases-detection
+# [Dataset](https://www.kaggle.com/datasets/loki4514/rice-leaf-diseases-detection)
